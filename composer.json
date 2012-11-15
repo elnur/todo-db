@@ -1,0 +1,14 @@
+{
+    "name": "elnur/todo-db",
+    "license": "MIT",
+    "require": {
+        "symfony/yaml": "@stable",
+        "elnur/database-migrations": "@dev"
+    },
+    "authors": [
+        {
+            "name": "Elnur Abdurrakhimov",
+            "email": "elnur@elnur.pro"
+        }
+    ]
+}
